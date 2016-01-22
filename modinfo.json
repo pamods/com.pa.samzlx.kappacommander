@@ -7,7 +7,7 @@
   "author": "samzlx",
   "version": "1.0.0",
   "build": "89755",
-  "date": "2016/1/22",
+  "date": "2016/1/23",
   "signature": "not yet implemented",
   "category": [
         "in-game",
@@ -15,6 +15,6 @@
         "Strategic-icons"
     ],
   "forum": "",
-  "icon": "http://i.imgur.com/42rCfYb.png",
+  "icon": "http://i.imgur.com/QB78Nq9.png",
   "priority": 100
 }
