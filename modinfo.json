@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "context": "client",
+  "identifier": "com.pa.samzlx.kappacommander",
+  "display_name": "Strategic Kappa Icon - Commander",
+  "description": "Make your commander a Kappa",
+  "author": "samzlx",
+  "version": "1.0.0",
+  "build": "89755",
+  "date": "2016/1/22",
+  "signature": "not yet implemented",
+  "category": [
+        "in-game",
+        "client-mod",
+        "Strategic-icons"
+    ],
+  "forum": "",
+  "icon": "http://i.imgur.com/42rCfYb.png",
+  "priority": 100
+}
