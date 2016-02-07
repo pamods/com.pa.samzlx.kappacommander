@@ -5,7 +5,7 @@
   "display_name": "Strategic Kappa Icon - Commander",
   "description": "Make your commander a Kappa",
   "author": "samzlx, dom314",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "build": "89755",
   "date": "2016/2/7",
   "signature": "not yet implemented",
@@ -14,7 +14,7 @@
         "client-mod",
         "Strategic-icons"
     ],
-  "forum": "https://github.com/Samzlx/com.pa.samzlx.kappacommander",
+  "forum": "https://forums.uberent.com/threads/rel-client-strategic-kappa-icon-commander.71368/",
   "icon": "http://i.imgur.com/QB78Nq9.png",
   "priority": 100
 }
