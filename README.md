@@ -10,3 +10,5 @@ This mod will replace your standard commander icon with Kappa commander icon.
 <br>
 <h5>Features in latest version (v1.1.1): </h5>
 <img src="http://i.imgur.com/p4fWGs7.gif" alt="KappaP"></img>
+<br>
+Your commander goes KappaPride of Rainbows when you select it.
