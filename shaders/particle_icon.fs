@@ -33,7 +33,7 @@ void main()
         out_FragColor = texel;
     else
     {
-        if (v_SelectedState > 0 && texel.b > 0) {
+        if (v_SelectedState > 0 && texel.b > 0.5) {
             float x = v_ColorSecondary.x;
             float y = v_ColorSecondary.y;
             rainbow = hsv2rgb(vec3(- Time.x - x - y, 1, 1));
