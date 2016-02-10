@@ -8,7 +8,14 @@ This mod will replace your standard commander icon with Kappa commander icon.
 <img src="http://i.imgur.com/QB78Nq9.png" alt="KappaI"></img>
 <img src="http://i.imgur.com/y4Hpm2n.png" alt="Kappas"></img>
 <br>
-<h5>Features in latest version (v1.1.1): </h5>
+<h5>Features in version 1.1.1: </h5>
 <img src="http://i.imgur.com/p4fWGs7.gif" alt="KappaP"></img>
 <br>
 Your commander goes KappaPride of Rainbows when you select it.
+<br>
+<h5>Bug fixes: 1.1.2: </h5>
+<br>
+<li>
+Fixed problem with some icons having little rainbow effect.
+</li>
+
