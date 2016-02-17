@@ -1,7 +1,7 @@
 # com.pa.samzlx.kappacommander
 <h3>Strategic Kappa Icon - Commander</h3>
 
-<a href="https://forums.uberent.com/threads/rel-client-strategic-kappa-icon-commander.71368/">Forum page</a>
+<a href="https://forums.uberent.com/threads/rel-client-strategic-kappa-icon-commander.71368/">Forum link</a>
 <br>
 This mod will replace your standard commander icon with Kappa commander icon.
 <br>
