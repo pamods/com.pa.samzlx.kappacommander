@@ -5,16 +5,14 @@
 <br>
 This mod will replace your standard commander icon with Kappa commander icon.
 <br>
-<img src="http://i.imgur.com/QB78Nq9.png" alt="KappaI"></img>
+<img src="https://raw.githubusercontent.com/Samzlx/com.pa.samzlx.kappacommander/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_commander.png" alt="KappaI"></img>
+<img src="https://raw.githubusercontent.com/Samzlx/com.pa.samzlx.kappacommander/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_l_commander.png" alt="KappaL"></img>
 <img src="http://i.imgur.com/y4Hpm2n.png" alt="Kappas"></img>
 <br>
-<h5>Latest version 1.1.2: </h5>
+<h5>Latest version 1.2.0: </h5>
 <h6>Features: </h6>
 <img src="http://i.imgur.com/p4fWGs7.gif" alt="KappaP"></img>
 <br>
 • Your commander goes KappaPride of Rainbows when you select it.
-<br>
-<h6>Bug fixes:</h6>
-• Fixed problem with some icons having little rainbow effect.
-
+• Added a Kappa commander icon for Legion faction.
 
