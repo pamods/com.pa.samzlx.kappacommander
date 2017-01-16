@@ -14,5 +14,6 @@ This mod will replace your standard commander icon with Kappa commander icon.
 <img src="http://i.imgur.com/p4fWGs7.gif" alt="KappaP"></img>
 <br>
 • Your commander goes KappaPride of Rainbows when you select it.
+<br>
 • Added a Kappa commander icon for Legion faction.
 
