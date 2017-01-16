@@ -5,9 +5,9 @@
   "display_name": "Strategic Kappa Icon - Commander",
   "description": "Make your commander a Kappa",
   "author": "samzlx, dom314",
-  "version": "1.1.2",
-  "build": "89755",
-  "date": "2016/2/8",
+  "version": "1.2.0",
+  "build": "99377",
+  "date": "2017/1/17",
   "signature": "not yet implemented",
   "category": [
         "in-game",
@@ -15,6 +15,6 @@
         "Strategic-icons"
     ],
   "forum": "https://forums.uberent.com/threads/rel-client-strategic-kappa-icon-commander.71368/",
-  "icon": "http://i.imgur.com/QB78Nq9.png",
-  "priority": 100
+  "icon": "http://i.imgur.com/EF9fHDO.gif",
+  "priority": 101
 }
