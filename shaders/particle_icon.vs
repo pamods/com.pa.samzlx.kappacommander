@@ -60,5 +60,5 @@ void main()
     // We're already in normalized clip space, so w is just 1.0.
     gl_Position = vec4(worldPos.x, worldPos.y, worldPos.z, 1.0);
 
-    v_TexCoord = vec2(a_TexCoord.x, vUVAndExtra.x + vUVAndExtra.y * (1.0 - a_TexCoord.y));
+    v_TexCoord = calculateAtlasUV(vUVAndExtra.xy);
 }
